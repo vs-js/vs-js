@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Varun @vs-js
-- 👀 I’m interested in buidling websites, books, coding and stocks
+- 👀 I’m interested in buidling apps, books, coding and stocks
 - 🌱 I’m currently learning Javascript based frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
